@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "Regulated Zone"
+      },
+      "geometry": {
+        "coordinates": [
+          77.17114403685099,
+          28.666619870886805
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "Controlled Zone - I "
+      },
+      "geometry": {
+        "coordinates": [
+          77.20517671672485,
+          28.613920653027122
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone": "Controlled Zone - II"
+      },
+      "geometry": {
+        "coordinates": [
+          77.25127470296542,
+          28.645961846795103
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    }
+  ]
+}

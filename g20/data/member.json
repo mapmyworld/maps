@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Argentina",
+        "summit": "Hosted in 2018",
+        "leader": "Alberto Fernández",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.19258100601135,
+          -36.40362239214306
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Australia",
+        "summit": "Hosted in 2014",
+        "leader": "Anthony Albanese",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          134.37994301084632,
+          -25.50592412389433
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Brazil",
+		"summit": "will host in 2024",
+        "leader": "Luiz Inácio Lula da Silva",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.62142107040657,
+          -9.59034625208011
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Canada",
+        "summit": "Hosted in Jun, 2010",
+        "leader": "Justin Pierre James Trudeau",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.75088901728614,
+          55.586262638170666
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "China",
+        "summit": "Hosted in 2016",
+        "leader": "Xi Jinping",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          101.90137483675039,
+          35.487129621721934
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "France",
+        "summit": "Hosted in 2011",
+        "leader": "Emmanuel Macron",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          2.618757090009808,
+          47.824895157503335
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Germany",
+        "summit": "Hosted in 2017",
+        "leader": "Olaf Scholz",
+        "designation": "Chancellor"
+      },
+      "geometry": {
+        "coordinates": [
+          10.017576897850205,
+          51.13311465646484
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Indonesia",
+        "summit": "Hosted in 2022",
+        "leader": "Joko Widodo",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          106.82705217114096,
+          -6.175314111439164
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Italy",
+        "summit": "Hosted in 2021",
+        "leader": "Giorgia Meloni",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          12.646496457668178,
+          42.50327311122251
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Japan",
+        "summit": "Hosted in 2019",
+        "leader": "Fumio Kishida",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          138.5911562604332,
+          36.38653680477671
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Mexico",
+        "summit": "Hosted in 2012",
+        "leader": "Andrés Manuel López Obrador",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.5345462308485,
+          23.950104289102768
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Republic of Korea",
+        "summit": "Hosted in Nov, 2010",
+        "leader": "Yoon Suk Yeol",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          128.1659339095363,
+          36.53608600966538
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Russia",
+        "summit": "Hosted in 2013",
+        "leader": "Vladimir Putin",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          96.66995904862529,
+          61.993920269469186
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Saudi Arabia",
+        "summit": "Hosted in 2020",
+        "leader": "Salman bin Abdulaziz Al Saud",
+        "designation": "King"
+      },
+      "geometry": {
+        "coordinates": [
+          44.651718424466196,
+          23.38475924203398
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "South Africa",
+        "leader": "Cyril Ramaphosa",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          23.91242107273621,
+          -28.379186608701737
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "Türkiye",
+        "summit": "Hosted in 2015",
+        "leader": "Recep Tayyip Erdoğan",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          35.179102469905814,
+          39.06056798183158
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "United Kingdom",
+        "summit": "Hosted in Apr, 2009",
+        "leader": "Rishi Sunak",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3698949568568537,
+          54.23836714346703
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "United States of America",
+        "summit": "Hosted in 2008 | Sep, 2009",
+        "leader": "Joseph R. Biden Jr.",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.92733455670303,
+          39.38092335022304
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "member": "European Union",
+        "leader": "Charles Michel | Ursula von der Leyen",
+        "designation": "President - Council | Commission"
+      },
+      "geometry": {
+        "coordinates": [
+          4.382910542328517,
+          50.843431291196566
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Bangladesh",
+        "leader": "Sheikh Hasina",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          90.07703307161609,
+          24.347196358976802
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Egypt",
+        "leader": "Abdel Fattah Saeed Hussein Khalil El-Sisi",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          29.87196370327942,
+          26.492723269601612
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Mauritius",
+        "leader": "Pravind Kumar Jugnauth",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          57.500852013726075,
+          -20.17655889284717
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Netherlands",
+        "leader": "Mark Rutte",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          5.607494460043597,
+          51.97751826565181
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Nigeria",
+        "leader": "Bola Ahmed Tinubu",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          8.107488585181557,
+          9.593008665780403
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Oman",
+        "leader": "Sultan Haitham bin Tarik",
+        "designation": "Head of State"
+      },
+      "geometry": {
+        "coordinates": [
+          57.08786225775461,
+          21.377577949755775
+        ],
+        "type": "Point",
+        "leader": "Alberto Fernández",
+        "designation": "President"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Singapore",
+        "leader": "Lee Hsien Loong",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          103.80794741469037,
+          1.3517532410538422
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "Spain",
+        "leader": "Pedro Sánchez",
+        "designation": "Prime Minister"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.061730104877967,
+          41.27912122778926
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "invitee": "UAE",
+        "leader": "Sheikh Mohamed bin Zayed Al Nahyan",
+        "designation": "President"
+      },
+      "geometry": {
+        "coordinates": [
+          54.256435613209874,
+          23.853351971066104
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    }
+  ]
+}
