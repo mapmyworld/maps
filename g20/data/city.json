@@ -1,0 +1,940 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Udaipur",
+        "state": "Rajasthan",
+        "description": "Udaipur, also known as ‘city of lakes’, is located in Rajasthan- a state famous for its palaces and forts. The city is famous for its Lake Palace,  located in the middle of Lake Pichola; Jaisamand Lake, the second largest man-made sweet water lake in Asia; City Palace and Sajjangarh Monsoon Palace; and Solar observatory in Lake Fateh Saga,  the only observatory in India located on an island. The famous festivals are Mewar festival and Kumbhalgarh festival.",
+        "nearestairport": "Maharana Pratap Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          73.68629019460471,
+          24.57884066287798
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jodhpur",
+        "state": "Rajasthan",
+        "description": "Jodhpur, in western Rajasthan, is popularly known as the Blue City because most of its buildings and architecture – forts, palaces, temples, havelis and houses are built in vivid shades of blue. The city is also known for the rare breed of horses known as Marwari or Malani, which are only found here. Must visit places are Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace and Sheesh Mahal. ",
+        "nearestairport": "Jodhpur Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          73.03509510404334,
+          26.296793906526304
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "description": "Jaipur is the capital city of Rajasthan, and is called a Pink City because of the distinct colour of its buildings. The city is a UNESCO World Heritage site and is famous for its monuments, colourful markets, gorgeous handloom garments and wonderfully laid-out gardens showcasing the Rajasthani culture. Popular tourist places are Amber Fort, Hawa Mahal, City Palace, Rambagh Palace, Jal Mahal and Jaigarh Fort. ",
+        "nearestairport": "Jaipur International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          75.8189310884132,
+          26.915482374626777
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Imphal",
+        "state": "Manipur",
+        "description": "Imphal is among the most ancient cities in India. Located in the far east state - Manipur, the city is known for its scenic landscapes and greenery. Popular tourist areas are –the Khwairamband Bazaar- run entirely by women, Kangla fort, Manipur zoological gardens and Keibul Lamjao National Park. The Leela Festival, Lai Haraoba, the Ratha Jathra, Ningol Chakouba Festival, Cheiraoba Festival are some local events every traveler should witness.",
+        "nearestairport": "Bir Tikendrajit International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          93.9364490019841,
+          24.799045985715523
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "description": "Mumbai is the financial, commercial and entertainment city of India. It is the capital of Maharashtra and is a mix of iconic old-world charm architecture, strikingly modern high rises, and cultural and traditional structures. It is home to three UNESCO World Heritage Sites including Chhatrapati Shivaji Maharaj Terminus, Victorian Gothic and Art Deco Ensembles, and the ancient Elephanta caves and temples. Other popular attractions are the Gateway of India, Juhu beach, Chowpatty, Versova Beach, Bandra Worli sea link, Mumbai Film city and Kanheri caves. Ganesh Chaturthi, Durga Puja and Maha Shivratri are some of the popular festivals in the city.",
+        "nearestairport": "Chhatrapati Shivaji Maharaj International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          72.87738289112886,
+          19.076077325442697
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "description": "Pune, situated in Maharashtra, is the education epicenter of India and is home to many colleges and universities. In recent years, the city has emerged as a new startup hub housing several information technology (IT), engineering and automotive companies. Pune is also known for cultural activities such as classical music, spirituality, theatre, sports and literature. Historical attractions include the 8th century rock-cut Pataleshwar cave temple, Shaniwarwada, Aga Khan Palace, Kasba Ganapati temple, Lal Mahal and Sinhagad fort. ",
+        "nearestairport": "Pune International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          73.85439666889476,
+          18.521468620121553
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Aurangabad",
+        "state": "Maharashtra",
+        "description": "Aurangabad, situated in Maharashtra, is famous for the Ajanta and Ellora caves that are located on its outskirts. Both caves have been designated as UNESCO World Heritage Sites since 1983. Other tourist attractions include the Aurangabad Caves, Daulatabad Fort,  Grishneshwar Temple, Jama Mosque, Bibi Ka Maqbara  and Salim Ali Lake. Historically, there were 52 Gates in Aurangabad, some of them extant, which gives it a nickname &quot;City of Gates&quot;. The city is also known as a major producer of cotton textile and artistic silk fabrics, particularly shawls.",
+        "nearestairport": "Aurangabad Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          75.33891510809582,
+          19.877304314740456
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "description": "Gandhinagar, named after Mahatma Gandhi – the Father of the Nation,  is the capital city of Gujarat. It is also referred to as Ecopolite city or Cosmopolite city, due to its serene environment and lavish infrastructure. Gandhinagar has been accorded as the greenest capital city in Asia. Culturally, Gandhinagar is known for its  craft work like wood carvings, terracotta work and ethnic wears, and exotic festivals like Uttarayan and Navratri. The Akshardham Temple is among its famous tourist attractions. ",
+        "nearestairport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad"
+      },
+      "geometry": {
+        "coordinates": [
+          72.64932046080082,
+          23.223088097671493
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "description": "Ahmedabad, in Gujarat, has been designated as a World Heritage City by UNESCO. The city enjoys rich cultural traditions and has various traditions of different ethnic and religious communities. Major annual events are Uttarayan Kite Festival, Navratri Garba Dance and Shri Jagannath Rath Yatra. The top attractions are Kankaria Lake, Sabarmati Ashram, Adalaj Step-well, Manek Chowk, ISKON Temple, Bhadra Fort, Jama Masjid, Sarkhej Roza and Calico Textile Museum. Patola Sarees, Chaniya Choli, Bandhej, Khadi and Kalamkari Cotton Print are some famous items to buy. ",
+        "nearestairport": "Sardar Vallabhbhai Patel International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          72.5797277397711,
+          23.021601977034464
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surat",
+        "state": "Gujarat",
+        "description": "Surat, in Gujarat, is known to be the world's largest diamond manufacturing centre, home to over 5,000 diamond manufacturing units including diamond cutting factories. When in Surat, one must visit diamond cutting and polishing companies including Surat Diamond Bourse which is the largest corporate building in the world housing over 4,200 offices of national and international diamond merchants. ",
+        "nearestairport": "Surat International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          72.80812397619766,
+          21.186489000271322
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kevadia",
+        "state": "Gujarat",
+        "description": "Also known as Ekta Nagar, Kevadia is known for its exclusive Gujarati culture. The town is famous for Statue of Unity, a colossal statue of Indian statesman and the Ironman of India Sardar Vallabhbhai Patel.  The statue is made of bronze and stands 182 m tall, making it the tallest in the world. Other tourist attractions include Valley of Flowers, a flower garden situated along the bank of River Narmada, and Cactus Garden which exhibits a huge variety of Cacti and succulents, the true miracles of adaptation.",
+        "nearestairport": "Ahmedabad, Surat and Vadodara International Airports"
+      },
+      "geometry": {
+        "coordinates": [
+          73.69673225523925,
+          21.882109868542273
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "description": " Hyderabad, capital of Telangana, is an ancient city established more than 400 years ago, and is now known for its IT Industry and Pharma Sector. Mecca Masjid, Charminar, Golconda fort, Qutub Shahi tombs, Paigah tombs are some of the historic structures. There are many other structures like Falaknuma Palace, Chowmohalla Palace and Taramati Baradari. Birla Mandir, Jagannath temple, Salarjung Museum, Mahankali temple, Hussain Sagar lake, Mir Alam Tank, Nehru Zoological park, KBR park and Mrugavani National Park are some of the other major tourist attractions. The city is known for its Pearls and sometimes referred to as “City of Pearls”.  ",
+        "nearestairport": "Rajiv Gandhi International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          78.47401380731895,
+          17.360542636669123
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "description": "Bhopal is located in the heart of India, in the State of Madhya Pradesh, and was formerly a part of Bhopal princely state, which was founded in 1723. Bhopal is one of the greenest cities of India. The city is famous for its 19th-century Taj-ul-Masjid, the largest mosque in India, Fatehgarh Fort, Lakshminarayan Temple, Bharat Bhawan, a multipurpose arts centre, the Museum of Man, and Van Vihar National Park. ",
+        "nearestairport": "Raja Bhoj International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.40194912136445,
+          23.258511953599196
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "description": "Indore, in Madhya Pradesh, was founded in 1715 as a trading hub between the Deccan and Delhi. The city is famous for traditional industries like pottery and hand-loom weaving. Famous tourist attractions include the Kanch Mandir- which is made entirely of glass and mirrors, Sarafa bazaar; Chhatris– a reflection of unique Maratha architecture, and Lal Bagh Palace. Tourists can also visit the exotic natural wonders such as Gulawat Lotus Valley, Choral Ghat and Patalpani in the outskirts of the city.",
+        "nearestairport": "Devi Ahilya Bai Holkar International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          75.86699770072116,
+          22.718220960599695
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Khajuraho",
+        "state": "Madhya Pradesh",
+        "description": " Khajuraho is the pride of Indian architectural grandeur. It is a small town located in the Bundelkhand region of Madhya Pradesh, famous for a  complex of exquisite Hindu and Jain temples. Built in the medieval century by the Chandela Dynasty, the UNESCO site of 'Khajuraho Group of Monuments' is famous for its Nagara-Style architecture and graceful sculptures of nayikas and deities. It is also famous for its sculptured temples dedicated to Shiva, Vishnu, and Jaina patriarchs. ",
+        "nearestairport": "Khajuraho International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          79.92542098456408,
+          24.851624797952965
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "description": "Kolkata is the capital city of West Bengal and is popularly known as the ‘City of joy’. Historically, it is renowned for being cultural capital of India, and continues to spawn generations of poets, writers, film producers and Nobel Prize winners. The city has beautiful architecture and buildings like Victoria Memorial Hall, Raj Bhavan, and Writers’ Building. Popular attractions include Mother House, headquarters of the Missionaries of Charity founded by Mother Teresa. The city is also known for the biggest celebration of the festival Durga Puja.",
+        "nearestairport": "Netaji Subhas Chandra Bose International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          88.36254312730063,
+          22.57308637798579
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Guwahati",
+        "state": "Assam",
+        "description": "Situated in the northeastern state of Assam, Guwahati is a perfect blend of nature, culture, heritage, religion, and buzzing nightlife. The most important festival celebrated in the city is Bihu. Major tourist attractions are Kamakhya temple, Brahmaputra River front, and Ramsar site of Deepor Beel, smallest inhabited river island in the world at Umananda. The nearby Kaziranga National Park – a UNESCO world Heritage site, and Pobitora wildlife sanctuary are world famous for one-horned rhinoceros viewing.",
+        "nearestairport": "Lokpriya Gopinath Bordoloi International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          91.75369871849733,
+          26.180685763755633
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "description": "Bengaluru, capital city of Karnataka, is known as the Silicon Valley of India because of its position as the nation's leading IT exporter. It is home to some of the world's major IT corporations, startups and Indian tech companies. A demographically diverse city, Bengaluru is a major economic and cultural hub and the fastest growing major metropolis in India. Some of the popular tourist areas are Tipu Palace &amp; Fort, Bangalore Palace, town hall, Lumbini Gardens and Hebbal Lake.",
+        "nearestairport": "Kempegowda International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.5911775898719,
+          12.979137725767615
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mysuru",
+        "state": "Karnataka",
+        "description": "Mysuru is the cultural capital of Karnataka, that presents a beautiful amalgamation of historical splendor and nature. The city is dotted with lakes, waterfalls and gardens. Major tourist attractions are Mysuru Palace, St. Philomena’s Church, Ranganathittu Birds Sanctuary, Brindavan Gardens and Mysuru Sand sculpture which is 1st Sand sculpture of India. Famous shopping items to look for in Mysuru include Silk Sarees, Sandalwood Products, Incense Sticks, Mysuru Paintings, Rosewood Artefacts, and Stone Sculptures.",
+        "nearestairport": "Mandakalli Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.6552369717109,
+          12.304961281131028
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hampi",
+        "state": "Karnataka",
+        "description": "Designated as a world Heritage site by UNESCO, Hampi is located on the banks of the Tungabhadra River, in Karnataka. The city has a great history being the capital of erstwhile medieval Hindu Kingdom of Vijayanagara. The rich history of Hampi is narrated by Virupaksha, Vithala temple, Stone chariot and Lotus Mahal. It is also known for its World’s Largest Open-air Museum, and the three-day long Hampi festival held around October-November every year. ",
+        "nearestairport": "Bellary airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.46166095446085,
+          15.335077843477848
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Diu",
+        "state": "Union Territory of Dadra and Nagar Haveli and Daman and Diu",
+        "description": " Diu is a tiny island of breeze and beauty in the Western coast of India. The town of Diu is known for its archaic colonial forts, beautiful churches and white sand beaches. Popular attractions include the forts of Diu, Fortress of Panikotha, St. Paul Church, St. Francis of Assisi Church, bird sanctuary, Gangeshwar temple, and Jallandhar beach, among others. ",
+        "nearestairport": "Diu Airport and Rajkot Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          70.9853403529803,
+          20.713512809029822
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh",
+        "description": "Greater Noida is situated 30 km south-east of the capital city of New Delhi, and lies within the National Capital Region. It is adjacent to Noida, and is one of the largest industrial townships in Asia. Some of the centres of attraction include F-1 Track or Buddha International Circuit, the only Formula  One track in India, and Akshardham temple. A “Robotic Manufacturing Facility” is also being established which will be the world’s largest robotic manufacturing facility to be built in Greater Noida.  ",
+        "nearestairport": "Indira Gandhi International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.51365168669406,
+          28.46690717075255
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "description": "Lucknow is the capital city of Uttar Pradesh. The city is known for its Adab and Tehzeeb (manners and hospitality), intricate embroidery (Chikankari), beautiful gardens and dance forms such as Kathak. Places of interest in and around Lucknow include Rumi Gate, Bara Imambara, Chotta Imambara, Safed baradari, La Martiniere Boys' College, the Residency, Chattar Manzil, and Dudhwa National Park.",
+        "nearestairport": "Chaudhary Charan Singh International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          80.93455141711831,
+          26.838026218501938
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "description": "Agra, in Uttar Pradesh, is famous for its iconic tourism destinations- Taj Mahal and Agra Fort -, both UNESCO World Heritage sites. The city offers a trail of fascinating tombs and mausoleums to explore. Acclaimed for its lavish crafts like Pietra Dura (marble inlay) work, rugs and leather goods, and the luscious Petha, Agra equally caters to shopaholics and foodies. Other major attractions include Akbar’s tomb, Imat-Ud-Daula, Mariam’s tomb, Jama Masjid, Nagina Masjid and Guru ka Taal.",
+        "nearestairport": "Rajmata Vijaya Raje Scindia Air Terminal, Gwalior, and Indira Gandhi International Airport, Delhi"
+      },
+      "geometry": {
+        "coordinates": [
+          78.00959523676653,
+          27.17529653869252
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "description": "Located on the banks of the holy River Ganga, in Uttar Pradesh, Varanasi (a city of temples) is believed to be the oldest living city in the world. The land of Varanasi (Kashi) has been the ultimate pilgrimage spot for Hindus for ages. Varanasi is famous for ancient domes, muths, ashrams, priests, narrow lanes and its production of silks and brocades with gold and silver thread work. A renowned carpet-weaving centre is at Bhadoi. Wooden toys, bangles made of glass, ivory work, and brassware are also produced in Varanasi.",
+        "nearestairport": "Lal Bahadur Shastri International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          83.00785802997837,
+          25.336311135063312
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "description": " Popularly referred to as the City of Waterfalls, Ranchi is a beautiful destination full of natural and cultural wonders, and the capital city of Jharkhand State. Ranchi is blessed with mineral resources in abundance and is known as the “Manchester of the East”. It accounts for nearly eighteen percent of the national mineral production. Some of the popular tourist attractions are Hundru Falls, Tagore Hill, Jonha Falls and Dassam Falls. ",
+        "nearestairport": " Birsa Munda Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          85.32489086091977,
+          23.370045292565976
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Blair",
+        "state": "Andaman and Nicobar Islands",
+        "description": "Port Blair is a popular tourist destination and is the capital of the Andaman and Nicobar Islands. The island town offers water-based activities like snorkelling, scuba diving, sea-cruises. Popular attractions include Cellular Jail (built in 1906), Ross Island and Barren Island (known for the only active volcano). ",
+        "nearestairport": "Veer Savarkar International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          92.73826784682893,
+          11.663149918206997
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kavaratti Island",
+        "state": "Lakshadweep",
+        "description": "Kavaratti Island is the capital of the Union Territory of Lakshadweep. Lovely lagoons and snow-white sands make Kavaratti a paradise for beach lovers. The lagoons are best suited for swimming, kayaking, wind surfing and canoeing.  Outlined by coconut trees, the beaches draw thousands of vacationers from far and wide. Main attractions are Jamnath, Mohidden and Ujra mosques, Chicken Neck point and city aquarium. ",
+        "nearestairport": "Kochi Airport linked to Agatti Island"
+      },
+      "geometry": {
+        "coordinates": [
+          72.6394851766249,
+          10.569249385141617
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gurugram",
+        "state": "Haryana",
+        "description": "Gurugram is India's second largest information technology hub and third largest financial and banking hub. It is located 30 Km south of National Capital New Delhi. It is known for its booming infrastructure, its rapid urbanization, and economic prosperity. The must visit places include Cyber hub, Sheetla Mata Temple, Kingdom of Dreams, Damdama lake, Heritage transport Museum and Sultanpur National Bird Sanctuary.",
+        "nearestairport": "Indira Gandhi International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.02986851511531,
+          28.464307081056276
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Aizawl",
+        "state": "Mizoram",
+        "description": "Aizawl is the capital city of Mizoram. It is a beautiful hill city perched on series of ridges that run north to south. As such, the picturesque and peaceful city commands a wonderful vista of exotic landscapes of verdant hills and valleys stretching away to the horizon. It has a large number of beautiful churches, the most visited of which is the Solomon’s Temple. Besides these, the State Museum and various handloom and handicraft stores are other major tourist attractions.",
+        "nearestairport": " Lengpui Airport; Best time to visit – all year round"
+      },
+      "geometry": {
+        "coordinates": [
+          92.71919760396878,
+          23.731391738543024
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Amritsar",
+        "state": "Punjab",
+        "description": "A focal point of Sikh faith, Amritsar is situated in North West Punjab, Major tourist attractions include: Shri Harimandir Sahib (Golden Temple), Durgiana Temple, Maharaja Ranjit Singh Museum, Gobindgarh Fort, Jallianwala Bagh, Ram Tirath, Wagah Border, Pul Kanjari &amp; Sada Pind. Phulkari, Punjabi jutti, Thateras: Brass and Copper utensils (an Indian craft form inscribed in the UNESCO list of Intangible Cultural Heritage) are some of the prominent things to buy from Amritsar.",
+        "nearestairport": "Sri Guru Ram Das Ji International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          74.87377739654195,
+          31.633857543714882
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Shillong",
+        "state": "Meghalaya",
+        "description": "Shillong, the capital of Meghalaya, is a hill town, situated in the north-eastern part of India. The city is endowed with striking natural scenery, waterfalls, architectural monuments and beautiful villages. Some of the famous tourist spots in Shillong include Elephant Falls, Sweet Falls, Umiam Lake and Ward’s Lake. Shillong is very close to Mawsynram, the wettest place on Earth and Mawlynnong, the cleanest village in Asia. ",
+        "nearestairport": "Umroi Airport and Guwahati airport"
+      },
+      "geometry": {
+        "coordinates": [
+          91.88234516317436,
+          25.575887109229114
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mahabalipuram",
+        "state": "Tamil Nadu",
+        "description": "Mahabalipuram, situated along the Bay of Bengal in Tamil Nadu, is famous for its Group of Monuments (a UNESCO World Heritage Site) - a collection of 7th- and 8th-century CE religious monuments, intricately carved temples and rock-cut caves. The city is historically important and well-loved tourist location. The beautiful white sandy beaches dotted with casuarina trees are major attractions. The world-famous places to visit include Five Rathas, Shore Temple, Clock Tower, Hill Side Cave and Tiger Cave.",
+        "nearestairport": "Chennai international airport"
+      },
+      "geometry": {
+        "coordinates": [
+          80.19404675161235,
+          12.619844628852576
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "description": "Coimbatore is known for its textile industry and cotton production. Some of the major attractions of Coimbatore District are Aliyar Dam, Monkey Falls, Siruvani Dam, Cholayar Dam, Botanical Garden, Horticulture Farms and Vaitheki Falls. Coimbatore serves as an entry and exit point to neighbouring Kerala State and the very popular hill station of Udhagamandalam (Ooty) which is 70 kms from Coimbatore.",
+        "nearestairport": "Coimbatore International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.95943078215237,
+          11.00085386498641
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "description": "Chennai is the capital city of Tamil Nadu. It has a cultural and historical background that is both rich and vast. Some of the popular tourist attractions are Marina beach, Mahabalipuram, Sri Parthasarathy Temple, Birla Planetarium, St. Thomas Cathedral Basilica, Kapaleeshwarar Temple, Thousand Lights Mosque and Fort St. George. ",
+        "nearestairport": "Chennai international airport"
+      },
+      "geometry": {
+        "coordinates": [
+          80.26980412157451,
+          13.08386221038866
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gangtok",
+        "state": "Sikkim",
+        "description": "Gangtok, the capital of Sikkim, is a hill station situated at a height of 1650 m above sea level. It offers spectacular views of Mt. Kanchenjunga. Some of the popular natural attractions are Tsomgo Lake, Ban Jhakri falls, Tashi viewpoint, Enchey Monastery, Ganesh Tok, Do Drul Chorten and Rumtek Monastery. River Teesta flowing through Gangtok is one of the best spots for white water rafting in North East India.",
+        "nearestairport": "Bagdogra airport, Siliguri"
+      },
+      "geometry": {
+        "coordinates": [
+          88.61131370793242,
+          27.329209906426186
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "description": "Also known as Vizag, this industrial city in Andhra Pradesh State has many beautiful sandy beaches, carefully built and regularly maintained parks and gardens like the Araku Valley. The most conspicuous landmark at Visakhapatnam is the Dolphin’s nose, a rock promontory jutting out into the sea. Other tourist attractions are Thotlakonda Buddhist Site, Bavikondsa Buddhist Site, Bojjannakonda, Simhachalam Temple, Geo-heritage sites such as Eraamatti Dibbalu and Borra Caves.",
+        "nearestairport": "Visakhapatnam International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          83.30101204738986,
+          17.72292266573075
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rishikesh",
+        "state": "Uttarakhand",
+        "description": "Rishikesh is a city in India’s northern state of Uttarakhand, in the Himalayan foothills beside the Ganges River. It is a famous tourist and pilgrimage hub, and is often recognized as the Yoga capital of the world. The city has numerous ashrams, some of which are internationally recognized as centres of philosophical studies, yoga and other ancient Indian traditions of wellness. Rishikesh is also known for The Beatles ashram where English rock band ‘The Beatles’ visited in summer of 1968 and composed nearly 48 songs. Some of the popular tourist attractions include Lakshman Jhula, Ram Jhula, Parmarth Niketan, Parmarth Niketan and Triveni Ghat for Ganga Aarti, Vashistha Cave and Kaudiyala for river rafting. ",
+        "nearestairport": "Jolly Grant Airport, Dehradun"
+      },
+      "geometry": {
+        "coordinates": [
+          78.29147124723335,
+          30.11100274154505
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Shimla",
+        "state": "Himachal Pradesh",
+        "description": "Shimla is the capital of Himachal Pradesh and situated at the height of 2200m. The city retains its old-world charm with beautiful historical architecture, pedestrian-friendly Mall Road and the ridge lined up with multiple shops, cafes and restaurants. It is the only city in India that houses a natural ice-skating rink. Popular tourist attractions are the Ridge, Mall Road, Christ Church, Viceregal Lodge &amp; Botanical Gardens, and Jakhoo Temple. ",
+        "nearestairport": "Shimla Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.17076648577108,
+          31.10430269400574
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Siliguri",
+        "state": "West Bengal",
+        "description": "Siliguri is a city in the northeastern state of West Bengal, and is often known as the land of 4 Ts; “Tea, Tourism, Transport and Timber”. The Kanchenjunga stadium and the Hong Kong market are famous tourist attractions. Views of white snow-clad mountain peaks of the great Himalayan Ranges from Siliguri are not to be missed. Jaldapara Wildlife Sanctuary, located nearby, is also a great place to visit for a safari.",
+        "nearestairport": "Bagdogra airport"
+      },
+      "geometry": {
+        "coordinates": [
+          88.42999875912818,
+          26.718963012481623
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Thiruvananthapuram",
+        "state": "Kerala",
+        "description": "Thiruvananthapuram (Trivandrum) is the capital of Kerala. The city is famous for the Indian Space Research Organisation (ISRO) and the Vikram Sarabhai Space Centre. Major tourist attractions include Padmanabhaswamy Temple, the beaches of Kovalam and Varkala, the backwaters of Poovar and Anchuthengu, and the Western Ghats. Some of the popular festivals celebrated in Thiruvananthapuram are Onam, Vishu, Attukal and Pongala",
+        "nearestairport": "Thiruvananthapuram International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.93607420017702,
+          8.523902356569991
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kochi",
+        "state": "Kerala",
+        "description": "Kochi (Cochin) is one of the most picturesque destinations on the southwest coast line of Kerala. An all-weather harbour and a grand seascape mark it as the “Queen of the Arabian Sea”. It is famous for things like silver and gold jewelry, silk sarees, handloom, spices and handcrafted items. Major attractions include Dutch Palace, Fort Kochi and Paradesi Synagogue.",
+        "nearestairport": "Cochin International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.26714672628111,
+          9.930920493025056
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "description": "Raipur is capital of Chhattisgarh state. The city is famous for its steel markets and terracotta.  Some of the popular tourist attractions include Purkhouti Mukhtangan – an open museum, Mahant Ghasidas Memorial Museum, Budhapara Lake, Hajra Waterfall and Nandanvan Wildlife safari. ",
+        "nearestairport": "Swami Vivekananda International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          81.63328628462693,
+          21.2376548376358
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Patna",
+        "state": "Bihar",
+        "description": "Patna is an ancient city that sprawls along the south bank of the Ganges River in Bihar. It’s home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby attractions include the Hindu and Jain pilgrim centres of Vaishali, Rajgir, Nalanda, BodhGaya (the most famous pilgrimage in Buddhism), Nalanda University and Pawanpuri.",
+        "nearestairport": "Lok Nayak Jayaprakash Narayan International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          85.12368098585398,
+          25.609420514604793
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dimapur",
+        "state": "Nagaland",
+        "description": "Dimapur is the largest city and a commercial centre of Indian state- Nagaland. The city has several places of interest. Some of these include Diezephe Craft Village, Triple Falls, Kachari ruins, Rangapahar reserve forest and Chumukedima village.",
+        "nearestairport": "Dimapur Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          93.72795977548435,
+          25.914017043395404
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "description": " Bhubaneswar is a culturally rich capital city of Odisha, located on the eastern ghats of India. The city has over one thousand temples, earning the tag of the 'Temple City of India'. The city is famous for its temple architecture of Jagannath and Puri Temple. The ancient Buddhist centres of Lalitagiri and Ratnagiri are situated near Bhubaneswar. It is also known for its famous artform - Pattachitra. ",
+        "nearestairport": "Biju Patnaik International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          85.8386417182308,
+          20.259554984587794
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Agartala",
+        "state": "Tripura",
+        "description": "Capital city of Tripura, Agartala comprises a large geographical area with undulating hilly landscape. The town is known for its tribes like Bhil, Bhutia, Chakma and their festivals like Kharchi and Garia Puja. Ujjayanta palace and state museum are some of the popular tourist attractions. ",
+        "nearestairport": "Maharaja Bir Bikram Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          91.27836470329197,
+          23.832378850021314
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Goa",
+        "state": "Goa",
+        "description": "Goa, the land of beaches, is the smallest state in India but also one of the biggest tourist destinations of the country. A blend of Portuguese and Indian influences, Goa is known for its unique history, beaches, Gothic churches, crumbling forts, palm-fringed beaches, coconut groves and bubbly folk music. Major tourist attractions include Dhudhsagar falls, Bom Jesus Basilica, Fort Aguada, a wax museum on Indian culture and a heritage museum. The Churches and Convents of Goa have been declared a World Heritage Site by UNESCO. Popular beaches are Baga, Calangute and Palolem. ",
+        "nearestairport": "Goa International Airport, Dabolim"
+      },
+      "geometry": {
+        "coordinates": [
+          74.05647150327974,
+          15.3330180294342
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chandigarh",
+        "state": "Punjab and Haryana",
+        "description": "Chandigarh is renowned for its urban design and architecture. It is often called the City Beautiful or the Garden City. Popular attractions include Capitol Complex (A UNESCO World Heritage site), designed by French Architect Le Corbusier, Rock Garden, Garden of Tranquility, Garden of Rare Plants, Garden of Annuals, Bougainvillea Garden, Rose Garden and Gurudwara Koohni Sahi. ",
+        "nearestairport": "Chandigarh International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.77843487419386,
+          30.733967275951187
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rann of Kutch",
+        "state": "Gujarat",
+        "description": "The Rann of Kutch (or Kachchh) in western Gujarat is famous for its white salty desert sand and is reputed to be the largest salt desert in the world.  The region is an eclectic mix of tribes from India’s different places which reflects in its homes, food, art, social traditions and landmarks that include Jain temples, mosques, Swaminarayan Temple, museums, to name a few. The Rann of Kutch is famous for its three-month long festival known as ‘The Rann Utsav’ held every year from December to February.",
+        "nearestairport": "Bhuj Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          69.50626634934358,
+          23.806951396254817
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Puducherry",
+        "state": "Tamil Nadu",
+        "description": "Puducherry is a Union Territory bounded by the southeastern Tamil Nadu state. Blossoming bougainvilleas, crumbling cathedrals on leafy boulevards and 18th-century colonial buildings colour the former French colony of Puducherry. The city is a popular weekend getaway from Chennai, and is known for its famous Sri Aurobindo Ashram in Auroville and Quiet beaches.",
+        "nearestairport": "Pondicherry Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          79.82938308554225,
+          11.93470450254243
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dibrugarh",
+        "state": "Assam",
+        "description": "Dibrugarh is situated on the southern bank of the Brahamaputra, in the State of Assam. The city has many tourist spots including wildlife sanctuaries, historic satras and beautiful tea estates. Some of the famous tourist attractions are Dibru- Saikhowa National Park, Jokai Botanical Garden, Koli Aai Thaan, and Lekia Chetia Maidam. ",
+        "nearestairport": "Mohanbari Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          94.90044333090668,
+          27.484690242323964
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "description": "New Delhi is a city where ancient and modern blend seamlessly together. Now a thriving, cosmopolitan metro, the city has much to celebrate as it has already reached the milestone of completing 100 years as a capital. With a history that goes back many centuries, Delhi showcases an ancient culture and a rapidly modernising country. Dotted with monuments there is much to discover here. The seat of many powerful empires in the past, its long history can be traced in its many carefully-preserved monuments, ancient forts and tombs. It is home to three World Heritage monuments - Qutub Minar, Red Fort and Humayun's Tomb that have survived many centuries, and give an idea of architectural wonders created by emperors in the past. New additions to the city, such as Akshardham temple and also the Lotus Temple are also great places to visit and give an idea of its multi-faceted culture. It can be said that New Delhi is a symbol of the country's rich past and thriving present.",
+        "nearestairport": "Indira Gandhi International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          77.20743641506908,
+          28.613547390880356
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kumarakom",
+        "state": "Kerala",
+        "description": "A labyrinth of backwaters with shimmering water, the brilliant green of mangrove forests, coconut palms lining the embankments, blue skies, flocks of migratory birds skimming the water - that is Kumarakom, a veritable dreamland! This famous tourist backwater hub is a cluster of islands on the eastern banks of Lake Vembanad. It also has a bird sanctuary which is spread across 14 acres and is a favourite haunt of migratory birds and an ornithologist's paradise. With the huge lake on one side and with a network of calm canals running through it, Kumarakom, a masterpiece created by man and nature together, enjoys a unique position on the map of Kerala.",
+        "nearestairport": "Cochin International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          76.43136414966796,
+          9.596305808210076
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "description": ".",
+        "nearestairport": "Srinagar International Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          74.81908258959538,
+          34.07363847565203
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    }
+  ]
+}

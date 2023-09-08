@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Argentina",
+        "name": "Argentina",
         "summit": "Hosted in 2018",
         "leader": "Alberto Fernández",
         "designation": "President"
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Australia",
+        "name": "Australia",
         "summit": "Hosted in 2014",
         "leader": "Anthony Albanese",
         "designation": "Prime Minister"
@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Brazil",
+        "name": "Brazil",
 		"summit": "will host in 2024",
         "leader": "Luiz Inácio Lula da Silva",
         "designation": "President"
@@ -55,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Canada",
+        "name": "Canada",
         "summit": "Hosted in Jun, 2010",
         "leader": "Justin Pierre James Trudeau",
         "designation": "Prime Minister"
@@ -72,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "China",
+        "name": "China",
         "summit": "Hosted in 2016",
         "leader": "Xi Jinping",
         "designation": "President"
@@ -89,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "France",
+        "name": "France",
         "summit": "Hosted in 2011",
         "leader": "Emmanuel Macron",
         "designation": "President"
@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Germany",
+        "name": "Germany",
         "summit": "Hosted in 2017",
         "leader": "Olaf Scholz",
         "designation": "Chancellor"
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Indonesia",
+        "name": "Indonesia",
         "summit": "Hosted in 2022",
         "leader": "Joko Widodo",
         "designation": "President"
@@ -141,7 +141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Italy",
+        "name": "Italy",
         "summit": "Hosted in 2021",
         "leader": "Giorgia Meloni",
         "designation": "Prime Minister"
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Japan",
+        "name": "Japan",
         "summit": "Hosted in 2019",
         "leader": "Fumio Kishida",
         "designation": "Prime Minister"
@@ -175,7 +175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Mexico",
+        "name": "Mexico",
         "summit": "Hosted in 2012",
         "leader": "Andrés Manuel López Obrador",
         "designation": "President"
@@ -192,7 +192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Republic of Korea",
+        "name": "Republic of Korea",
         "summit": "Hosted in Nov, 2010",
         "leader": "Yoon Suk Yeol",
         "designation": "President"
@@ -209,7 +209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Russia",
+        "name": "Russia",
         "summit": "Hosted in 2013",
         "leader": "Vladimir Putin",
         "designation": "President"
@@ -226,7 +226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Saudi Arabia",
+        "name": "Saudi Arabia",
         "summit": "Hosted in 2020",
         "leader": "Salman bin Abdulaziz Al Saud",
         "designation": "King"
@@ -243,7 +243,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "South Africa",
+        "name": "South Africa",
         "leader": "Cyril Ramaphosa",
         "designation": "President"
       },
@@ -259,7 +259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "Türkiye",
+        "name": "Türkiye",
         "summit": "Hosted in 2015",
         "leader": "Recep Tayyip Erdoğan",
         "designation": "President"
@@ -276,7 +276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "United Kingdom",
+        "name": "United Kingdom",
         "summit": "Hosted in Apr, 2009",
         "leader": "Rishi Sunak",
         "designation": "Prime Minister"
@@ -293,7 +293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "United States of America",
+        "name": "United States of America",
         "summit": "Hosted in 2008 | Sep, 2009",
         "leader": "Joseph R. Biden Jr.",
         "designation": "President"
@@ -310,7 +310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "member": "European Union",
+        "name": "European Union",
         "leader": "Charles Michel | Ursula von der Leyen",
         "designation": "President - Council | Commission"
       },

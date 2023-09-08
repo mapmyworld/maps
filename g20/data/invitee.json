@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Bangladesh",
+        "name": "Bangladesh",
         "leader": "Sheikh Hasina",
         "designation": "Prime Minister"
       },
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Egypt",
+        "name": "Egypt",
         "leader": "Abdel Fattah Saeed Hussein Khalil El-Sisi",
         "designation": "President"
       },
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Mauritius",
+        "name": "Mauritius",
         "leader": "Pravind Kumar Jugnauth",
         "designation": "Prime Minister"
       },
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Netherlands",
+        "name": "Netherlands",
         "leader": "Mark Rutte",
         "designation": "Prime Minister"
       },
@@ -68,7 +68,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Nigeria",
+        "name": "Nigeria",
         "leader": "Bola Ahmed Tinubu",
         "designation": "President"
       },
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Oman",
+        "name": "Oman",
         "leader": "Sultan Haitham bin Tarik",
         "designation": "Head of State"
       },
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Singapore",
+        "name": "Singapore",
         "leader": "Lee Hsien Loong",
         "designation": "Prime Minister"
       },
@@ -118,7 +118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "Spain",
+        "name": "Spain",
         "leader": "Pedro Sánchez",
         "designation": "Prime Minister"
       },
@@ -134,7 +134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "invitee": "UAE",
+        "name": "UAE",
         "leader": "Sheikh Mohamed bin Zayed Al Nahyan",
         "designation": "President"
       },
