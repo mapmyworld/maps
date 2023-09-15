@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europe"
+      },
+      "geometry": {
+        "coordinates": [30,34],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle East"
+      },
+      "geometry": {
+        "coordinates": [47.5,27],
+        "type": "Point"
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name": "India"
+      },
+      "geometry": {
+        "coordinates": [66,22],
+        "type": "Point"
+      }
+    }
+  ]
+}

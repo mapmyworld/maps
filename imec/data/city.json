@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mumbai",
+        "country": "India"
+      },
+      "geometry": {
+        "coordinates": [
+          72.87734290752854,
+          19.07655374103237
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jebel Ali",
+        "country": "UAE"
+      },
+      "geometry": {
+        "coordinates": [
+          55.135991901688755,
+          25.033118829266314
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Al Ghuwaifat",
+        "country": "UAE"
+      },
+      "geometry": {
+        "coordinates": [
+          51.617927848265566,
+          24.12749702137046
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Haradh",
+        "country": "Saudi Arabia"
+      },
+      "geometry": {
+        "coordinates": [
+          49.10795803700745,
+          24.137213040784772
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      "geometry": {
+        "coordinates": [
+          46.71837782692117,
+          24.63064727368331
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Al Hadithah",
+        "country": "Saudi Arabia"
+      },
+      "geometry": {
+        "coordinates": [
+          37.15678958009292,
+          31.45501745726692
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Haifa",
+        "country": "Israel"
+      },
+      "geometry": {
+        "coordinates": [
+          34.998223598028744,
+          32.8184870924683
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Piraeus",
+        "country": "Greece"
+      },
+      "geometry": {
+        "coordinates": [
+          23.64712023997501,
+          37.943299787813416
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    }
+  ]
+}
