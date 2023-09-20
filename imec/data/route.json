@@ -5,7 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "Europe",
-		"line-color": "red"
+		"line-color": "red",
+		"object": "container_ship",
+		"direction": 150,
+		"steps" : 50
       },
       "geometry": {
         "coordinates": [
@@ -25,17 +28,17 @@
       "type": "Feature",
       "properties": {
         "name": "Middle East",
-		"line-color": "blue"
+		"line-color": "blue",
+		"object": "train_engine",
+		"direction": 145,
+		"steps" : 50,
+		"zoom": 4
       },
       "geometry": {
         "coordinates": [
           [
             55.117576419829874,
             24.871259240580784
-          ],
-          [
-            54.273641370860986,
-            23.94907812709245
           ],
           [
             51.61908203501454,
@@ -50,10 +53,6 @@
             24.494818223733432
           ],
           [
-            37.13409751485213,
-            31.363062231516935
-          ],
-          [
             35.001243482005606,
             32.71574325800043
           ]
@@ -65,7 +64,10 @@
       "type": "Feature",
       "properties": {
         "name": "India",
-		"line-color": "red"
+		"line-color": "red",
+		"object": "container_ship",
+		"direction": 160,
+		"steps" : 100
       },
       "geometry": {
         "coordinates": [
