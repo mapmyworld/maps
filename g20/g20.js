@@ -1,5 +1,16 @@
 
-var navId = params.get('nav');
+var MAP_BASE = mmw._custom.MAP_BASE;
+var mapId = mmw._custom.mapId;
+var navId = mmw._custom.navId;
+
+var headerEl = mmw._overlay.headerEl;
+var middleheaderEl = mmw._overlay.middleheaderEl;
+var rightheaderEl = mmw._overlay.rightheaderEl;
+var rightbarEl = mmw._overlay.rightbarEl;
+
+var map = mmw.map;
+var marker = mmw.marker;
+var markerpopup = mmw.markerpopup;
 
 document.title = 'G20 World Map';
 document.getElementsByTagName('link')[0].href = MAP_BASE + mapId + '/img/g20-xxxs.png';
@@ -60,18 +71,18 @@ if(!navId) {
 	let rightbarList4TitleEl = document.createElement('div');
 	rightbarList4TitleEl.append('Traffic Control');
 	rightbarEl.append(rightbarList4TitleEl);
-	rightbarList4TitleEl.setAttribute('onclick','setNav("traffic")');
+	rightbarList4TitleEl.setAttribute('onclick','mmw._common.setNav("traffic")');
 	rightbarList4TitleEl.classList.add('nolist');
 
 	rightbarListHeight = (rightbarEl.clientHeight -  titleHeight ) / noOfList;
 
-	makeCollapsible(rightbarListTitleEl);
-	makeCollapsible(rightbarList2TitleEl);
-	makeCollapsible(rightbarList3TitleEl);
+	mmw._overlay.makeCollapsible(rightbarListTitleEl);
+	mmw._overlay.makeCollapsible(rightbarList2TitleEl);
+	mmw._overlay.makeCollapsible(rightbarList3TitleEl);
 
-	//collapse(rightbarListTitleEl);
-	//collapse(rightbarList2TitleEl);
-	//collapse(rightbarList3TitleEl);
+	//mmw._overlay.collapse(rightbarListTitleEl);
+	//mmw._overlay.collapse(rightbarList2TitleEl);
+	//mmw._overlay.collapse(rightbarList3TitleEl);
 
 	var popupFn = function leaderInfo(e) {
 		var feature = e.features[0];
@@ -90,24 +101,24 @@ if(!navId) {
 	
 	map.on('load',  async () => {
 	
-		geoJSONData[0] = await fetchJSON(MAP_BASE + mapId + '/data/host.json');
+		geoJSONData[0] = await mmw._common.fetchJSON(MAP_BASE + mapId + '/data/host.json');
 		map.addSource('host', { 'type': 'geojson', 'data': geoJSONData[0],
 			"attribution" : 'Source <a href="https://g20.org">G20</a>'
 		});
 		var symbolLayer = newSymbolLayer('host', 'host', ['format', ['get', 'name'], ' \n ', ['get', 'summit'] ]);
 		symbolLayer.layout['text-offset'] = [2,.5];
 		map.addLayer(symbolLayer);
-		enablePopup('host', popupFn);
+		mmw._layer.enablePopup('host', popupFn);
 		
-		geoJSONData[1] = await fetchJSON(MAP_BASE + mapId + '/data/member.json');
+		geoJSONData[1] = await mmw._common.fetchJSON(MAP_BASE + mapId + '/data/member.json');
 		map.addSource('member', { 'type': 'geojson','data': geoJSONData[1] });
-		addSymbolLayer('member', 'pin', ['format', ['get', 'name'], ' \n ', ['get', 'summit'] ], popupFn);
+		mmw._layer.addSymbolLayer('member', 'pin', ['format', ['get', 'name'], ' \n ', ['get', 'summit'] ], popupFn);
 				
-		geoJSONData[2] = await fetchJSON(MAP_BASE + mapId + '/data/invitee.json');
+		geoJSONData[2] = await mmw._common.fetchJSON(MAP_BASE + mapId + '/data/invitee.json');
 		map.addSource('invitee', { 'type': 'geojson','data': geoJSONData[2] });
-		addSymbolLayer('invitee', 'pin-blue', ['get', 'name'], popupFn);
+		mmw._layer.addSymbolLayer('invitee', 'pin-blue', ['get', 'name'], popupFn);
 		
-		geoJSONData[3] = await fetchJSON(MAP_BASE + mapId + '/data/city.json');
+		geoJSONData[3] = await mmw._common.fetchJSON(MAP_BASE + mapId + '/data/city.json');
 		
 		populateUI(geoJSONData);
 		
@@ -155,14 +166,14 @@ if(!navId) {
 
 	map.on('load',  async () => {
 		
-		let geoJSONData = await fetchJSON(MAP_BASE + mapId + '/data/zone.json');
+		let geoJSONData = await mmw._common.fetchJSON(MAP_BASE + mapId + '/data/zone.json');
 		map.addSource('zones', { 'type': 'geojson', 'data': geoJSONData,
 			"attribution" : 'Source <a href="https://traffic.delhipolice.gov.in/dtpg20info/traffic.html#:~:text=to%201300%20hrs.-,TRAFFIC%20REGULATIONS,-Vehicular%20movement%20on">Delhi Traffic Police</a>'
 		});
 		
-		addFillLayer('zones', ['get', 'fill-color'], .5, .2);
-		addLineLayer('zones', ['get', 'line-color'], 2);
-		addSymbolLayer('zones', '', ['get', 'name']);
+		mmw._layer.addFillLayer('zones', ['get', 'fill-color'], .5, .2);
+		mmw._layer.addLineLayer('zones', ['get', 'line-color'], 2);
+		mmw._layer.addSymbolLayer('zones', '', ['get', 'name']);
 		
 	});
 	
