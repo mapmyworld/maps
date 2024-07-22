@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  80.19797, 12.61645 ]
+    },
+    "properties": {
+    "Name":"Group of Monuments, Mamallapuram",
+    "D21":808145,
+    "F21":29145,
+    "D22":1142150,
+    "F22":144984,
+    "GD":41.3,
+    "GF":397.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.04220, 27.17261 ]
+    },
+    "properties": {
+    "Name":"Taj Mahal",
+    "D21":1259892,
+    "F21":9034,
+    "D22":3294611,
+    "F22":38922,
+    "GD":161.5,
+    "GF":330.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  80.20936, 12.65697 ]
+    },
+    "properties": {
+    "Name":"Tiger headed Rock cut temple, Saluvankuppam",
+    "D21":58206,
+    "F21":868,
+    "D22":81313,
+    "F22":25579,
+    "GD":39.7,
+    "GF":2846.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.02179, 27.17810 ]
+    },
+    "properties": {
+    "Name":"Agra Fort",
+    "D21":371242,
+    "F21":2810,
+    "D22":1027462,
+    "F22":13598,
+    "GD":176.8,
+    "GF":383.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  79.40565, 12.25103 ]
+    },
+    "properties": {
+    "Name":"Gingee Fort",
+    "D21":125109,
+    "F21":2272,
+    "D22":188496,
+    "F22":10483,
+    "GD":50.7,
+    "GF":361.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77.56508, 8.12577 ]
+    },
+    "properties": {
+    "Name":"Vattakottai Fort",
+    "D21":5058,
+    "F21":36,
+    "D22":53200,
+    "F22":9174,
+    "GD":951.8,
+    "GF":25383.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77.18565, 28.52473 ]
+    },
+    "properties": {
+    "Name":"Qutub Minar",
+    "D21":476063,
+    "F21":2849,
+    "D22":1157664,
+    "F22":8456,
+    "GD":143.2,
+    "GF":196.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.75149, 10.24767 ]
+    },
+    "properties": {
+    "Name":"Fort Museum, Thirumayam",
+    "D21":41487,
+    "F21":1555,
+    "D22":62622,
+    "F22":8422,
+    "GD":50.9,
+    "GF":441.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77.24112, 28.65580 ]
+    },
+    "properties": {
+    "Name":"Red Fort",
+    "D21":187380,
+    "F21":1438,
+    "D22":1323501,
+    "F22":5579,
+    "GD":606.3,
+    "GF":288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.72364, 10.45568 ]
+    },
+    "properties": {
+    "Name":"Rock-cut Jain Temple, Sittannavasas",
+    "D21":141791,
+    "F21":235,
+    "D22":44408,
+    "F22":5432,
+    "GD":6.3,
+    "GF":2211.5
+    }
+  }
+]
+}

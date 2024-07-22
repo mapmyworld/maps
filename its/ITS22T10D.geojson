@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.04220, 27.17261 ]
+    },
+    "properties": {
+    "Name":"Taj Mahal",
+    "D21":1259892,
+    "F21":9034,
+    "D22":3294611,
+    "F22":38922,
+    "GD":161.5,
+    "GF":" 330.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	77.24112, 28.65580  ]
+    },
+    "properties": {
+    "Name":"Red Fort",
+    "D21":187380,
+    "F21":1438,
+    "D22":1323501,
+    "F22":5579,
+    "GD":606.3,
+    "GF":"\t288 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77.18565, 28.52473 ]
+    },
+    "properties": {
+    "Name":"Qutub Minar",
+    "D21":476063,
+    "F21":2849,
+    "D22":1157664,
+    "F22":8456,
+    "GD":143.2,
+    "GF":" 196.8 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  80.19797, 12.61645 ]
+    },
+    "properties": {
+    "Name":"Group of Monuments, Mamallapuram",
+    "D21":808145,
+    "F21":29145,
+    "D22":1142150,
+    "F22":144984,
+    "GD":41.3,
+    "GF":" 397.5 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.02179, 27.17810 ]
+    },
+    "properties": {
+    "Name":"Agra Fort",
+    "D21":371242,
+    "F21":2810,
+    "D22":1027462,
+    "F22":13598,
+    "GD":176.8,
+    "GF":" 383.9 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  78.40146, 17.38475 ]
+    },
+    "properties": {
+    "Name":"Golconda Fort",
+    "D21":527096,
+    "F21":912,
+    "D22":946972,
+    "F22":1511,
+    "GD":79.7,
+    "GF":" 65.7 ]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  86.09457, 19.88760 ]
+    },
+    "properties": {
+    "Name":"Sun Temple, Konark",
+    "D21":530886,
+    "F21":142,
+    "D22":672891,
+    "F22":314,
+    "GD":26.7,
+    "GF":" 121.1 ]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  73.77380, 15.49302 ]
+    },
+    "properties": {
+    "Name":"Upper Fort Aguada",
+    "D21":379726,
+    "F21":340,
+    "D22":656756,
+    "F22":1057,
+    "GD":73,
+    "GF":" 210.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  74.64315, 24.89063 ]
+    },
+    "properties": {
+    "Name":"Chittaurgarh Fort",
+    "D21":223328,
+    "F21":206,
+    "D22":590389,
+    "F22":288,
+    "GD":164.4,
+    "GF":" 39.8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 	73.85523, 18.51966 ]
+    },
+    "properties": {
+    "Name":"Shaniwarwada",
+    "D21":160547,
+    "F21":87,
+    "D22":516448,
+    "F22":478,
+    "GD":221.7,
+    "GF":"\t449.4"
+    }
+  }
+]
+}
